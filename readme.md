@@ -168,11 +168,6 @@ def run(log=print):
   * Avoids GPIO locking issues (`GPIO busy`)
   * Ensures clean signal handling and shutdown
 
-* **OLED as a component**
-
-  * Not a wrapper process
-  * Prevents orphaned subprocesses
-
 * **Threaded ultrasound monitoring**
 
   * Runs independently of button/UI logic
