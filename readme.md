@@ -215,5 +215,3 @@ def run(log=print):
 ## Author
 
 By [Meriel O'Conor](https://www.linkedin.com/in/merieloconor/)
-
-Your Name
